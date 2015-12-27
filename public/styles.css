@@ -1,0 +1,29 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+.container {
+	width: 100%;
+}
+
+.dice-container {
+	display: inline-block;
+	/*margin: 11.3% 40%;*/
+}
+
+.title {
+	display: inline-block;
+	padding: 20px 40px;
+	font-size: 180px;
+	color: #FFF;
+}
+
+.red {
+	background: #FF0000;
+}
+
+.blue {
+	background: #0000FF;
+}

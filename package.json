@@ -1,0 +1,6 @@
+{
+	"title": "dice_master",
+	"dependencies": {
+		"express": "*"
+	}
+}
